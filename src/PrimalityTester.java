@@ -18,12 +18,12 @@ public class PrimalityTester {
 
     public static boolean isPrime(BigInteger prime, int m) {
 
-        if (prime.mod(BigInteger.valueOf(2)).equals(BigInteger.ZERO)) {
-            return false;
+        if (prime.equals(BigInteger.valueOf(2))) {
+            return true;
         }
 
         if (prime.compareTo(BigInteger.ONE) <= 0
-                || prime.mod(BigInteger.valueOf(2)).compareTo(BigInteger.ZERO) == 0) {
+                || prime.mod(BigInteger.valueOf(2)).equals(BigInteger.ZERO)) {
             return false;
         }
 
