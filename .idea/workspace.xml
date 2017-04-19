@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e420e09-1c1b-4885-8e5f-eb01f268050e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PrimalityTester.java" afterPath="$PROJECT_DIR$/src/PrimalityTester.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,11 +19,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PrimalityTester.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PrimalityTester.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PrimalityTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="21" column="23" lean-forward="false" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+            <state relative-caret-position="270">
+              <caret line="26" column="24" lean-forward="false" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -30,11 +31,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+            <state relative-caret-position="285">
+              <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -64,8 +65,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/RandomUniqueList.java" />
         <option value="$PROJECT_DIR$/src/Primes.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/PrimalityTester.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
@@ -538,12 +539,12 @@
       <updated>1492511628841</updated>
       <workItem from="1492511635633" duration="17105000" />
       <workItem from="1492588249410" duration="2462000" />
-      <workItem from="1492604864632" duration="6057000" />
+      <workItem from="1492604864632" duration="6209000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25624000" />
+    <option name="totallyTimeSpent" value="25776000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="22" width="1440" height="874" extended-state="6" />
@@ -618,20 +619,20 @@
     <entry file="file://$PROJECT_DIR$/src/Primes.java" />
     <entry file="file://$PROJECT_DIR$/src/RandomUniqueList.java" />
     <entry file="file://$PROJECT_DIR$/src/Primes.java" />
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/PrimalityTester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        <state relative-caret-position="270">
+          <caret line="26" column="24" lean-forward="false" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PrimalityTester.java">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="21" column="23" lean-forward="false" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        <state relative-caret-position="285">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

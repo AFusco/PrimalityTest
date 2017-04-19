@@ -23,7 +23,7 @@ public class PrimalityTester {
         }
 
         if (prime.compareTo(BigInteger.ONE) <= 0
-                || prime.mod(BigInteger.valueOf(2)).equals(BigInteger.ZERO)) {
+                || !prime.testBit(0)) {
             return false;
         }
 

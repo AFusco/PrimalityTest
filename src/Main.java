@@ -9,8 +9,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-        tryManyTimes(65261, false, 1, 65261);
-        /*
         Object[] primes = new Object[]{
                 "899809343",
                 "20988936657440586486151264256610222593863921",
@@ -35,7 +33,7 @@ public class Main {
                 tryManyTimes(getNum(p).add(BigInteger.valueOf(6)), false, m,1000);
             }
         }
-        */
+
 
 
     }
